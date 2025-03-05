@@ -5,11 +5,13 @@ const Home=()=>{
     const [blogs]=useState([
         {title:'My new Website', body:'lorem ispkmk..',author:'mario',id:1},
         {title:'Welcome Party', body:'lorem ispkmk..',author:'yoshi',id:2},
+        {title:'Story of Success', body:'lorem ispkmk..',author:'mario',id:3},
     ]);
 
 return(
     <div className="home">
         <BlogList  blogs={blogs} title="All Blogs"/>
+        <BlogList  blogs={blogs.filter((blog)=>blog.author==='mario')} title="Mario's Blogs"/>
     </div>
     );
 }

@@ -1,16 +1,22 @@
 {
-    "blogs": [
-      {
-        "title": "My First Blog",
-        "body": "My trip was an unforgettable success! From breathtaking landscapes to delicious local cuisine, every moment was filled with adventure and joy. Exploring new places, meeting amazing people, and creating lifelong memories made it truly special. The smooth journey, perfect weather, and exciting experiences made it a trip to remember. Cannot wait for the next one!",
-        "author": "mario",
-        "id": 1
-      },
-      {
-        "title": "Opening Party!",
-        "body": "Me and my friends hosted a spooky Halloween party filled with eerie decorations, glowing pumpkins, and creepy music. Everyone dressed in creative costumes, from witches to ghosts. We played fun games, enjoyed delicious treats like spooky cupcakes, and had a thrilling haunted house setup. The night ended with a horror movie marathon, making it an unforgettable celebration! 🎃👻",
-        "author": "yoshi",
-        "id": 2
-      }
-    ]
-  }
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "My trip was an unforgettable success! From breathtaking landscapes to delicious local cuisine, every moment was filled with adventure and joy. Exploring new places, meeting amazing people, and creating lifelong memories made it truly special. The smooth journey, perfect weather, and exciting experiences made it a trip to remember. Cannot wait for the next one!",
+      "author": "mario",
+      "id": "1"
+    },
+    {
+      "title": "Opening Party!",
+      "body": "Me and my friends hosted a spooky Halloween party filled with eerie decorations, glowing pumpkins, and creepy music. Everyone dressed in creative costumes, from witches to ghosts. We played fun games, enjoyed delicious treats like spooky cupcakes, and had a thrilling haunted house setup. The night ended with a horror movie marathon, making it an unforgettable celebration! 🎃👻",
+      "author": "yoshi",
+      "id": "2"
+    },
+    {
+      "id": "de18",
+      "title": "Hello Abyasa!",
+      "body": "I'm grateful for the opportunity to work as a web development intern at Abyasa Software, where I gained hands-on experience using the Django framework for backend development and React for building dynamic frontends.",
+      "author": "yoshi"
+    }
+  ]
+}

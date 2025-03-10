@@ -17,6 +17,12 @@
       "title": "Hello Abyasa!",
       "body": "I'm grateful for the opportunity to work as a web development intern at Abyasa Software, where I gained hands-on experience using the Django framework for backend development and React for building dynamic frontends.",
       "author": "yoshi"
+    },
+    {
+      "id": "d22a",
+      "title": "Successful Trip",
+      "body": "The trip was a memorable and successful experience. Everything went smoothly, from planning and transportation to the stay and activities. The weather was favorable, and the journey was comfortable and enjoyable. We were able to explore new places, try local cuisines, and engage in various cultural and recreational activities. The company of friends/family made it even more special, filled with laughter, learning, and great memories. Overall, it was a refreshing break and a well-spent time that left us with lasting impressions and stories to cherish.",
+      "author": "mario"
     }
   ]
 }
